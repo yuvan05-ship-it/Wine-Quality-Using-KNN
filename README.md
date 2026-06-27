@@ -28,3 +28,9 @@ Python | Scikit-learn | Pandas | Matplotlib | Seaborn
 ## How to Run
 pip install numpy pandas matplotlib seaborn scikit-learn
 jupyter notebook wine_quality_knn.ipynb
+
+## Problem Statement
+Wine quality testing traditionally requires expensive
+human tasters. This project builds a KNN model that
+predicts quality from 11 measurable chemical properties,
+enabling automated quality assessment.
